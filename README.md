@@ -7,13 +7,10 @@ Flutter Crush is my first ever Flutter project, developed as a board game inspir
 
 - [Introduction](#introduction)
 - [Game Mechanics](#game-mechanics)
-- [Game Elements](#game-elements)
 - [Objectives](#objectives)
 - [Pages](#pages)
 - [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -50,9 +47,7 @@ Additional elements may include:
 - "Wall": A place that cannot be moved nor removed from the game.
 - "Ice": Covers a tile and forces the latter to be involved in at least 2 events before being removed.
 
-## Game Elements
 
-[Add a description here of all the different types of tiles and special elements that players can interact with.]
 
 ## Objectives
 
@@ -98,6 +93,11 @@ The objectives panel consists of a series of icons representing different types 
 This panel displays the tiles organized based on the level definition, with dimensions depending on the device orientation and dimensions. The dimensions of a tile "square" are determined based on the device dimensions and the position of the "board."
 
 ## Screenshots
+<p align="center">
+<img src="home page.jpg" alt="Logo" width="190" height="350">
+<img src="game page.jpg" alt="Logo" width="190" height="350">
+</p>
+
 
 
 
